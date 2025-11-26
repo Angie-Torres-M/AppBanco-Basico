@@ -77,24 +77,10 @@ ProyectoBanco/
 
 ---
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
-Puedes usarlo, modificarlo o extenderlo con libertad.
-
----
-
-## Contribuciones
-
-Pull requests son bienvenidos.
-Para cambios mayores, abre un issue primero para discutir la mejora propuesta.
-
----
-
 ## Autora
 
 **Angie Torres**
 Desarrolladora Full Stack Jr.
-Apasionada por la ingeniería, el diseño de software y la práctica de POO.
+Apasionada por el desarrollo de software y la práctica de POO.
 
 ```
