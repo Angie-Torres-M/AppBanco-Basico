@@ -1,0 +1,8 @@
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
+C:\Users\Angie TM\desarrollo\Csharp\Proyecto\AppBanco\AppBanco\obj\Debug\AppBanco.exe.config
